@@ -1,13 +1,13 @@
 
 # AI Database Manager
 
-Small spoiler: It's not an AI Database Manager!
+Small spoiler: **It's not an AI Database Manager!**
 
-So what is it then? It's a Database Manager **by** an AI (an LLM)!
+So what is it then? It's a Database Manager **by** an LLM!
 
 To be more precise, it's from Claude (Sonnet 4.5) and is a whopping **1,778 lines** long.
 
-I never thought my first public commit would look like this – let alone be 100% written by an LLM. But well, here it is!
+I never thought my first public commit would look like this – let alone be **100%** written by an LLM. But well, here it is!
 
 ## What makes this so special?
 
@@ -36,8 +36,13 @@ The functions are not very special, but they still work great.
 -   Insert, edit and delete data
 -   Advanced tools: VACUUM, Integrity Check, Database statistics
 
-
-
+## Some pictures
+![Full sized Window Picture](https://github.com/blanksmoke2/AI-Database-Manager/blob/main/img/full_sized_window.PNG)
+----------
+![Sql query picture](https://github.com/blanksmoke2/AI-Database-Manager/blob/main/img/sql_query.PNG)
+----------
+![Schema picture](https://github.com/blanksmoke2/AI-Database-Manager/blob/main/img/schema.PNG)
+----------
 ## License
 
 MIT License – do whatever you want with it.
