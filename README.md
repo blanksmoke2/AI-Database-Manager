@@ -7,13 +7,7 @@ So what is it then? It's a Database Manager **by** an LLM!
 
 To be more precise, it's from Claude (Sonnet 4.5) and is a whopping **1,778 lines** long.
 
-I never thought my first public commit would look like this – let alone be **100%** written by an LLM. But well, here it is!
-
-## What makes this so special?
-
-Simple: It was written by an LLM. And the best – or creepiest – part is that **everything worked on the first try**. Yes, really.
-
-I actually didn't have to fix anything in the code. Everything is from Claude LLM Sonnet 4.5. And my prompt wasn't even particularly well-crafted.
+I never thought my first public commit would look like this – let alone be **100%** written by an LLM. But well, here it is! A bit unprofessional xD nvm
 
 ## How long did Sonnet 4.5 take?
 
